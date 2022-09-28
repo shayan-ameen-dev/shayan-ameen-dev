@@ -7,7 +7,7 @@ Full-Stack JS Developer
 I am a full-stack web developer, specializing mostly in JavaScript with an ambition to continue learning.
 
 * 🌍  I'm based in Karachi, Pakistan
-* 🖥️  See my [Portfolio](http://shayan.ameen.dev)
+* 🖥️  See my [Portfolio](https://portfolio-shayan-ameen-dev.netlify.app)
 * ⚡  See my [LikedIn Profile](https://www.linkedin.com/in/shayan-ameen-5a9527243)
 * ✉️  You can contact me at [shayan.ameen.dev@gmail.com](mailto:shayan.ameen.dev@gmail.com)
 * 🤝  I'm open to collaborate on interesting projects
